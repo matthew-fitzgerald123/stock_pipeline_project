@@ -2,18 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Live Stock Price Display</title>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="app">
-        <h1>Live Stock Price Display</h1>
-        <input type="text" id="stock-symbol" placeholder="Enter Stock Symbol (e.g., AAPL)">
-        <button onclick="fetchStockPrice()">Get Price</button>
-        <div id="stock-price"></div>
-    </div>
+    <h1>Live Stock Price Display</h1>
+    <input type="text" id="symbolInput" placeholder="AAPL">
+    <button id="getPriceButton">Get Price</button>
+    <p id="priceDisplay">Enter a stock symbol to see the live price.</p>
+
     <script src="script.js"></script>
 </body>
 </html>
