@@ -18,6 +18,6 @@ The application is accesible at
 https://stock-pipeline-app-a336269ee6c9.herokuapp.com
 
 
+**Application shown below.**
 <img width="423" alt="Screenshot 2024-09-14 at 9 26 42 PM" src="https://github.com/user-attachments/assets/b36f015b-78e5-4169-80f7-33f314ecb56b">
 
-Application shown above.
