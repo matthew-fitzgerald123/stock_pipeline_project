@@ -1,0 +1,5 @@
+# Ignore root .env
+.env
+
+# Ignore nested .env in public folder
+/public/.env
