@@ -1,4 +1,6 @@
 # stock pipeline project
+pipeline project
+
 I wanted to create an application that makes use of a CI/CD pipeline. I never used Heroku before for CI/CD so I had to make an 
 account as well as also get an API key from Alpha Vantage for live stock prices.
 
@@ -11,8 +13,6 @@ account as well as also get an API key from Alpha Vantage for live stock prices.
 
 **Libraries used:**
 Node.js, Express.js, Heroku, Fullstack,
-
-This was very, very quickly done.
 
 The application is accesible at
 https://stock-pipeline-app-a336269ee6c9.herokuapp.com
