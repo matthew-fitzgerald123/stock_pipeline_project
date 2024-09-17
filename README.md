@@ -6,9 +6,7 @@ account as well as also get an API key from Alpha Vantage for live stock prices.
 
 **Process**
 1. Created my repository and local project folders. 
-
 2. Installed the appropriate libraries and tools needed like node as well as Heroku CLI (Command Line Tools)
-
 3. Pushed my project repository to the Heroku repo.
 
 **Libraries used:**
