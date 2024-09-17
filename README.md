@@ -1,4 +1,4 @@
-# stock pipeline project
+# Stock Pipeline Project
 pipeline project
 
 I wanted to create an application that makes use of a CI/CD pipeline. I never used Heroku before for CI/CD so I had to make an 
